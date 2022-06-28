@@ -18,5 +18,8 @@
   "homepage": "https://github.com/kirillorlov1205/JavaScriptU4#readme",
   "dependencies": {
     "animejs": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0"
   }
 }
