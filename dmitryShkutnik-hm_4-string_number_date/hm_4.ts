@@ -59,5 +59,3 @@ console.log(testNumber);
 } else {
 console.log(Number.isInteger(testNumber));
 }
-
-
